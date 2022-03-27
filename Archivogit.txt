@@ -1,2 +1,4 @@
 Agregar en el staging area.
 Modificacion para el archivo en el brach primer rama.
+mensaje de pruebas para realizar el merge.
+
