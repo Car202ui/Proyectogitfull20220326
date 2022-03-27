@@ -1,1 +1,2 @@
 Agregar en el staging area.
+mensaje de pruebas para realizar el merge.
